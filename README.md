@@ -5,5 +5,6 @@ Em seguida é realizado etapas de BenchMark com o intuito de estressar o computa
 que futuramente seram analisadas e explicadas.
 
 Autores: Felipe Mathias May, Geovanna Névola e Mateus Morais
+Orientadores: Thiago Ferauche e Marcio Piva
 
 Para mais informações sobre a biblioteca Oshi: https://github.com/oshi/oshi
