@@ -88,7 +88,7 @@ public class Stages {
         
         System.out.println("\n------------------- BenchMark -------------------\n");
         
-        System.out.println("Tempo de execução - Etapa 1: "+ ((elapsedStage1-elapsedStage2-elapsedStage3)/1000d +" s");
+        System.out.println("Tempo de execução - Etapa 1: "+ ((elapsedStage1-elapsedStage2-elapsedStage3))/1000d +" s");
         System.out.println("Tempo de execução - Etapa 2: "+ elapsedStage2/1000d +" s");
         System.out.println("Tempo de execução - Etapa 3: "+ elapsedStage3/1000d +" s");
         
